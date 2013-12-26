@@ -1,0 +1,1 @@
+beefy test.js --cwd demo --live -- -r './index.js:kami-mesh' -t brfs
