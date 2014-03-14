@@ -9,6 +9,8 @@
   "author": "Matt DesLauriers",
   "license": "BSD-2-Clause",
   "dependencies": {
-    "number-util": "^1.0.2"
+    "number-util": "^1.0.2",
+    "vecmath": "~0.1.0",
+    "klasse": "~1.0.8"
   }
 }
